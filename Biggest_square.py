@@ -1,6 +1,3 @@
-import random
-
-
 class StartingPoint:
 
 	def __init__(self):
