@@ -1,1 +1,1 @@
-# The-biggest-square
+Using the Python language, have the function Some_function(Arr) take the Arr parameter being passed which will be a 2D matrix of 0 and 1's, and determine the area of the largest square submatrix that contains all 1's. A square submatrix is one of equal width and height, and your program should return the area of the largest submatrix that contains only 1's.
